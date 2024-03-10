@@ -70,8 +70,8 @@ def main():
             robot1.turn_left()
         
         else:
-            #robot1.run_braitenberg()
-            robot1.move_forward()
+            robot1.run_braitenberg()
+            #robot1.move_forward()
             
             
         robot1.set_actuators()
