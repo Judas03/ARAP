@@ -1,1 +1,1 @@
-# ARAP
+# ARAP Webots project
