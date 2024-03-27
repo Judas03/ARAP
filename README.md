@@ -1,1 +1,2 @@
-# ARAP Webots project
+# E-puck Block Color Detection
+# CNN Model
